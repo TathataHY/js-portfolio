@@ -9,10 +9,6 @@
     "dev": "webpack --config webpack.config.dev.js",
     "watch": "npm run dev -- --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
-  },
   "keywords": [
     "javascript",
     "html",
